@@ -80,6 +80,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Vector1_9e017f89a34548a5a9621bacfdfe6634: 0.93
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -111,7 +112,7 @@ Material:
     - _Color: {r: 0.5471698, g: 0, b: 0.38165992, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
-    - _elevationMinMax: {r: 2.72, g: 2.8860943, b: 0, a: 0}
+    - _elevationMinMax: {r: -0.05277307, g: 0.06106405, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &941971132071764896
 MonoBehaviour:
